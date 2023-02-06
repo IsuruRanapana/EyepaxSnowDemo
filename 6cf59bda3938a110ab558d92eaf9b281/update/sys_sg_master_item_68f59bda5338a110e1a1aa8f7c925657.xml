@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>sys_user</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="My Teammates">a8f59bda2538a110f35c19bc2d2fec60</embedded_screen>
+        <item_view/>
+        <name>My Teammates Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:35</sys_created_on>
+        <sys_id>68f59bda5338a110e1a1aa8f7c925657</sys_id>
+        <sys_name>My Teammates Main Item</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_master_item_68f59bda5338a110e1a1aa8f7c925657</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Teammates View Config">e8f59bdae438a110003a7da4b9bcd855</view_config>
+    </sys_sg_master_item>
+</record_update>

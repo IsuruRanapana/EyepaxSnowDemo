@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Team Contact Teammates">68f59bdaef38a1103cdef275d88e353d</dataset>
+        <order>100</order>
+        <predicate_bundle display_value="contact-team-mates-config">ecf59bda4a38a110be4c7d96b2ab013b</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:43</sys_created_on>
+        <sys_id>e8f59bda0338a1102639742d568e0f3b</sys_id>
+        <sys_name/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_e8f59bda0338a1102639742d568e0f3b</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

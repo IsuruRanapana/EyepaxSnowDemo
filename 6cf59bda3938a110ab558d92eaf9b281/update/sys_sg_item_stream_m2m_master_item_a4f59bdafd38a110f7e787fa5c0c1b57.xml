@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="My Teammates Item Stream">e8f59bda3e38a1105b60c6d42313c858</item_stream>
+        <master_item display_value="My Teammates Main Item">68f59bda5338a110e1a1aa8f7c925657</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:34</sys_created_on>
+        <sys_id>a4f59bdafd38a110f7e787fa5c0c1b57</sys_id>
+        <sys_name/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_a4f59bdafd38a110f7e787fa5c0c1b57</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

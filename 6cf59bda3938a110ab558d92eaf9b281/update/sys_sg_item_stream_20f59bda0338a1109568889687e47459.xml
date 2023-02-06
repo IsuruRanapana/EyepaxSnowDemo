@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Embedded List Relationship Reminders RDI">24f59bdaba38a11067d96367d3356959</data_item>
+        <interleaved_field/>
+        <name>List of Reminders for a contact Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:45</sys_created_on>
+        <sys_id>20f59bda0338a1109568889687e47459</sys_id>
+        <sys_name>List of Reminders for a contact Item Stream</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_item_stream_20f59bda0338a1109568889687e47459</sys_update_name>
+        <table>x_979268_eyepaxs_0_relationship_contact_reminders</table>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition table="x_979268_eyepaxs_0_relationship_notes">contact.nameDYNAMIC90d1921e5f510100a9ad2572f2b477fe^EQ<item endquery="false" field="contact.name" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>contact_location,contact_date,relationship,note,contact.contact_name,contact.name,contact</field_list>
+        <name>Team contact - notes</name>
+        <order>0</order>
+        <predicate_bundle display_value="Team contact - notes">64f59bda7a38a110aa99d02487d2ac3c</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:39</sys_created_on>
+        <sys_id>6cf59bdad938a110092111e4f66c993a</sys_id>
+        <sys_name>Team contact - notes</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_6cf59bdad938a110092111e4f66c993a</sys_update_name>
+        <table>x_979268_eyepaxs_0_relationship_notes</table>
+        <ux_template display_value="Team contact - notes">60f59bda8138a1101c74678f153b4d3b</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

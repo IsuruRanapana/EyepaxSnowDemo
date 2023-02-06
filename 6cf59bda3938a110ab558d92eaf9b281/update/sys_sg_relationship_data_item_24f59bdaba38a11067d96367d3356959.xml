@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_relationship_data_item">
+    <sys_sg_relationship_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Embedded List Relationship Reminders RDI</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <offline_relation_query_condition/>
+        <query_condition table="x_979268_eyepaxs_0_relationship_contact_reminders">^ORDERBYDESCsys_created_on<item endquery="false" field="" goto="false" newquery="false" operator="ORDERBYDESC" or="false" value="sys_created_on"/>
+        </query_condition>
+        <query_condition_script/>
+        <relationship>REL:da3784410f416010e3a6120ba4767e71</relationship>
+        <sys_class_name>sys_sg_relationship_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:34</sys_created_on>
+        <sys_id>24f59bdaba38a11067d96367d3356959</sys_id>
+        <sys_name>Embedded List Relationship Reminders RDI</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_relationship_data_item_24f59bdaba38a11067d96367d3356959</sys_update_name>
+        <table>x_979268_eyepaxs_0_relationship_contact_reminders</table>
+        <table_related_to>sys_user</table_related_to>
+    </sys_sg_relationship_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=24f59bdaba38a11067d96367d3356959"/>
+</record_update>

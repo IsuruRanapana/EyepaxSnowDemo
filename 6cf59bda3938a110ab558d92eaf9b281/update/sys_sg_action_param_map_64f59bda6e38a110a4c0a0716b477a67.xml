@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Reminder">2cf59bda2138a110e6f34475e81ce666</button>
+        <item_parameter display_value="Notification_subject">a0f59bda2438a11007b022b72c3c4767</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:34</sys_created_on>
+        <sys_id>64f59bda6e38a110a4c0a0716b477a67</sys_id>
+        <sys_name>a0f59bda2438a11007b022b72c3c4767</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_64f59bda6e38a110a4c0a0716b477a67</sys_update_name>
+        <ui_parameter display_value="Subject">20f59bdae038a110abd8f56d00d73567</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

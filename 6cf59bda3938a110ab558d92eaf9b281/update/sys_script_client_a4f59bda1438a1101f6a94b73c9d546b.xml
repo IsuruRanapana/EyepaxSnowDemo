@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>Validates Contact Date</description>
+        <field>contact</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Validate Note Date onSubmit</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+	var contactDate = g_form.getValue('contact_date');
+    var ajax = new GlideAjax('x_979268_eyepaxs_0.DateTimeUtils');
+    ajax.addParam('sysparm_name', 'checkPastDate');
+    ajax.addParam('sysparm_required', contactDate);
+    ajax.getXML(dateValidation);
+
+    function dateValidation(response) {
+        var answer = response.responseXML.documentElement.getAttribute("answer");
+        if (answer == 'true') {
+            g_form.clearValue('contact_date');
+            getMessage("Please check contact date to make sure that the contact date is not in the future!", function(msg) {
+                g_form.showErrorBox('contact_date', msg);
+            });
+        } else {
+            g_form.hideFieldMsg('contact_date');
+        }
+    }
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a4f59bda1438a1101f6a94b73c9d546b</sys_id>
+        <sys_name>Validate Note Date onSubmit</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_script_client_a4f59bda1438a1101f6a94b73c9d546b</sys_update_name>
+        <table>x_979268_eyepaxs_0_relationship_notes</table>
+        <type>onSubmit</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

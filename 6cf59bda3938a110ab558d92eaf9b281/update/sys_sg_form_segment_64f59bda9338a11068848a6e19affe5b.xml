@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Reminders">2cf59bda0238a110b8892327096a405b</embedded_screen>
+        <form display_value="All Employees">6cf59bda6838a11091544a32e30b695e</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>30</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:37</sys_created_on>
+        <sys_id>64f59bda9338a11068848a6e19affe5b</sys_id>
+        <sys_name/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_form_segment_64f59bda9338a11068848a6e19affe5b</sys_update_name>
+    </sys_sg_form_segment>
+</record_update>

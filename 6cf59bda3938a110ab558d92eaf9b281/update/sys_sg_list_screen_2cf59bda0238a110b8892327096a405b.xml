@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_list_screen">
+    <sys_sg_list_screen action="INSERT_OR_UPDATE">
+        <available_offline>false</available_offline>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state display_value="Reminders Empty State">68f59bda5838a110ae193f282607455c</empty_state>
+        <fetch_type>on_demand</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="icon-Address-Book">28f59bda7c38a11056184b26b1b63e5a</icon>
+        <name>Reminders</name>
+        <roles_override/>
+        <sys_class_name>sys_sg_list_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:36</sys_created_on>
+        <sys_id>2cf59bda0238a110b8892327096a405b</sys_id>
+        <sys_name>Reminders</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_list_screen_2cf59bda0238a110b8892327096a405b</sys_update_name>
+    </sys_sg_list_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=2cf59bda0238a110b8892327096a405b"/>
+</record_update>

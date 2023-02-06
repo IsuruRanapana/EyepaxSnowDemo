@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search">20f59bda3138a110ebeba8f4a057b740</macroponent>
+        <name>Handle Facet Click</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({
+    api,
+    event,
+    imports,
+    helpers
+}) 
+{
+    const props = api.context.props;
+    console.log("props.searchFilters",props.searchFilters);
+    helpers.navigate.to('search', {
+        searchContextConfigId: props.searchContextConfigId
+    }, {
+        searchFilters: props.searchFilters,
+        facetFilters: event.payload.selectedFilters,
+        disableSpellCheck: props.disableSpellCheck,
+        searchTerm: props.searchTerm,
+        evamDefinitionId: props.evamDefinitionId
+    });
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:36</sys_created_on>
+        <sys_id>20f59bdaad38a1105ee24ec1ba2e4c3f</sys_id>
+        <sys_name>Handle Facet Click</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_ux_client_script_20f59bdaad38a1105ee24ec1ba2e4c3f</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

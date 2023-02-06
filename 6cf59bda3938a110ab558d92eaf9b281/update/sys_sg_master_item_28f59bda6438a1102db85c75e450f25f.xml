@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_979268_eyepaxs_0_relationship_notes</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="">2d8cfb780f016010e3a6120ba4767edb</embedded_screen>
+        <item_view/>
+        <name>List of Notes Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:36</sys_created_on>
+        <sys_id>28f59bda6438a1102db85c75e450f25f</sys_id>
+        <sys_name>List of Notes Main Item</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_master_item_28f59bda6438a1102db85c75e450f25f</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="List of Notes View Config">ecf59bda5538a1108e55923ada1bd755</view_config>
+    </sys_sg_master_item>
+</record_update>

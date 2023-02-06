@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="68f59bdabe38a110846207bdc6a3a443" sys_domain="global" table="x_979268_eyepaxs_0_relationship_contact_reminders" version="3" view="portal">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>contact</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 10:13:37</sys_created_on>
+            <sys_id>e8f59bdac538a1102ff7ecaf4852a643</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepaxs_0_relationship_contact_reminders" sys_domain="global" view="cd9f0660f90211108c8bd16244dfe753">68f59bdabe38a110846207bdc6a3a443</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-06 10:13:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>note_date</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 10:13:37</sys_created_on>
+            <sys_id>6cf59bdac538a11011178b84fd449243</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepaxs_0_relationship_contact_reminders" sys_domain="global" view="cd9f0660f90211108c8bd16244dfe753">68f59bdabe38a110846207bdc6a3a443</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-06 10:13:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 10:13:37</sys_created_on>
+            <sys_id>24f59bda7038a11027284a111158be43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepaxs_0_relationship_contact_reminders" sys_domain="global" view="cd9f0660f90211108c8bd16244dfe753">68f59bdabe38a110846207bdc6a3a443</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-06 10:13:37</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>note_subject</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 10:13:37</sys_created_on>
+            <sys_id>e4f59bda7838a110a9d5df88b90da343</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_979268_eyepaxs_0_relationship_contact_reminders" sys_domain="global" view="cd9f0660f90211108c8bd16244dfe753">68f59bdabe38a110846207bdc6a3a443</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-02-06 10:13:37</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_979268_eyepaxs_0_relationship_contact_reminders</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-02-06 10:13:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68f59bdabe38a110846207bdc6a3a443</sys_id>
+            <sys_name>x_979268_eyepaxs_0_relationship_contact_reminders</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+            <sys_update_name>sys_ui_section_68f59bdabe38a110846207bdc6a3a443</sys_update_name>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Portal" name="portal">cd9f0660f90211108c8bd16244dfe753</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

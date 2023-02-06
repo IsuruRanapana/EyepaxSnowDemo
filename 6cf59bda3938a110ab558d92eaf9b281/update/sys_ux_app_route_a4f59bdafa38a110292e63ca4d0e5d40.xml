@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Team Contacts Config">a0f59bdab638a11010e5e43b2b113e81</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>ALL EMPLOYEES</name>
+        <optional_parameters/>
+        <order>1</order>
+        <parent_macroponent display_value="Home">68f59bdac338a110d2116417f3e2af42</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>all-employees</route_type>
+        <screen_type display_value="ALL EMPLOYEES">e0f59bda4038a1101727e8f7d1f32340</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:39</sys_created_on>
+        <sys_id>a4f59bdafa38a110292e63ca4d0e5d40</sys_id>
+        <sys_name>ALL EMPLOYEES</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_ux_app_route_a4f59bdafa38a110292e63ca4d0e5d40</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=a4f59bdafa38a110292e63ca4d0e5d40"/>
+</record_update>

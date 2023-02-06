@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Search">20f59bda3138a110ebeba8f4a057b740</macroponent>
+        <name>Handle Pagination</name>
+        <preset/>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function({
+    api,
+    event,
+    helpers
+}) {
+    const props = api.context.props;
+    const fields = {
+        searchContextConfigId: props.searchContextConfigId
+    };
+    const token = event.payload.paginationToken;
+    const params = {
+        searchFilters: props.searchFilters,
+        facetFilters: props.facetFilters,
+        disableSpellCheck: props.disableSpellCheck,
+        paginationToken: token,
+        searchTerm: props.searchTerm,
+        evamDefinitionId: props.evamDefinitionId
+    };
+    helpers.navigate.to('search', fields, params);
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:46</sys_created_on>
+        <sys_id>6cf59bda2938a1102cb42d6c699dcb3d</sys_id>
+        <sys_name>Handle Pagination</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_ux_client_script_6cf59bda2938a1102cb42d6c699dcb3d</sys_update_name>
+        <target/>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

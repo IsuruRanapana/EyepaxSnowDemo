@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>d5b88ad0-fc91-c5d3-c524-7aeda4a1d90a</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:41</sys_created_on>
+        <sys_id>64f59bda8338a110a634a338ce3fd652</sys_id>
+        <sys_name>d5b88ad0-fc91-c5d3-c524-7aeda4a1d90a</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_64f59bda8338a110a634a338ce3fd652</sys_update_name>
+        <type>text</type>
+        <view_template display_value="Team Contact Notes">a4f59bdabf38a110940ee0f38fbe4852</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

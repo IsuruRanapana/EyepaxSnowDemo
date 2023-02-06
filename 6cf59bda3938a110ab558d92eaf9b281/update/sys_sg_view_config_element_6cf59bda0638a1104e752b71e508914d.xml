@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:39</sys_created_on>
+        <sys_id>6cf59bda0638a1104e752b71e508914d</sys_id>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_6cf59bda0638a1104e752b71e508914d</sys_update_name>
+        <view_config display_value="All Employees View Config">64f59bda6c38a110eb58c14e2325395c</view_config>
+        <view_template_slot display_value="c7263e8a-8010-1754-3f3e-8c6d3332b389">e4f59bda2038a11079a44f0eec0b994f</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

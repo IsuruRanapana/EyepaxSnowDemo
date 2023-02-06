@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">a4f59bda2e38a11092fa79770d76a860</embedded_screen>
+        <form display_value="My Direct Reports">64f59bdac238a110d087e8669bfdcd5f</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:36</sys_created_on>
+        <sys_id>a0f59bda6738a110f17bc1777cf7585b</sys_id>
+        <sys_name/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_form_segment_a0f59bda6738a110f17bc1777cf7585b</sys_update_name>
+    </sys_sg_form_segment>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Add Note">2cf59bdae638a11012c1e0f276828965</button>
+        <color_theme>primary</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Add Note</label>
+        <location>top</location>
+        <name>Add Note</name>
+        <order>10</order>
+        <parent>2cf59bdab738a11016e385c4c3000760</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:46</sys_created_on>
+        <sys_id>68f59bdaef38a110d7b281051996935f</sys_id>
+        <sys_name>Add Note</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_button_instance_68f59bdaef38a110d7b281051996935f</sys_update_name>
+        <table>sys_user</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=68f59bdaef38a110d7b281051996935f"/>
+</record_update>

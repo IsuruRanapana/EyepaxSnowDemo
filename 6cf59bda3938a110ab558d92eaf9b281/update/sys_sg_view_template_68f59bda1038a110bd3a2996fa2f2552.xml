@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template">
+    <sys_sg_view_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Team Contacts Reminder</name>
+        <preview_image/>
+        <root_view_attrs_json/>
+        <sys_class_name>sys_sg_view_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:48</sys_created_on>
+        <sys_id>68f59bda1038a110bd3a2996fa2f2552</sys_id>
+        <sys_name>Team Contacts Reminder</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_view_template_68f59bda1038a110bd3a2996fa2f2552</sys_update_name>
+        <template_json>{"Type":"ViewGroup","Margin":{"Top":15,"Bottom":17},"Orientation":"Vertical","Alignment":"Left","Distribution":"Auto","Id":"Root","Children":[{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"regular","Size":18},"MaxLines":5,"textStyle":"headline","Margin":{"Bottom":8},"CellId":"e1e4cc5f-82e3-2547-5131-253dc6f2b953"},{"Type":"Text","TextColor":"#293E40","Font":{"Weight":"bold","Size":16},"MaxLines":1,"textStyle":"custom","CellId":"49bb31d6-a9eb-fe76-10f1-dcbb044bc3ba"}]}</template_json>
+    </sys_sg_view_template>
+    <sys_translated_text action="delete_multiple" query="documentkey=68f59bda1038a110bd3a2996fa2f2552"/>
+</record_update>

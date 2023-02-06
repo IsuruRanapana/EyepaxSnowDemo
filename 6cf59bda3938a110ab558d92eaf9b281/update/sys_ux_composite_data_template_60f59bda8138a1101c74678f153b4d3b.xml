@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template">
+    <sys_ux_composite_data_template action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>Team contact - notes</name>
+        <sys_class_name>sys_ux_composite_data_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:47</sys_created_on>
+        <sys_id>60f59bda8138a1101c74678f153b4d3b</sys_id>
+        <sys_name>Team contact - notes</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_60f59bda8138a1101c74678f153b4d3b</sys_update_name>
+        <template>{&#13;
+  "component": "now-card-evam-record",&#13;
+  "staticValues": {&#13;
+    "highlightedHeaderIcon": {&#13;
+      "translatable": false,&#13;
+      "key": "pencil-outline"&#13;
+    },&#13;
+    "highlightedHeaderBkgColor": {&#13;
+        "translatable": false,&#13;
+        "key": "moderate"&#13;
+    },&#13;
+    "highlightedHeaderLabel": {&#13;
+      "translatable": false,&#13;
+      "key": "Note"&#13;
+    },&#13;
+      "detailLabelOne": {&#13;
+          "translatable": true,&#13;
+          "key": "Reason for contact"&#13;
+      }&#13;
+  },&#13;
+  "mappings": {&#13;
+    "titleLabel": "note",&#13;
+    "textHeaderLabel": "contact_date",&#13;
+    "subtitle": "contact_location",&#13;
+     "detailValueOne": "relationship"&#13;
+  },&#13;
+  "actionMappings": {&#13;
+    "clickAction": "navigation"&#13;
+	}&#13;
+}</template>
+    </sys_ux_composite_data_template>
+</record_update>

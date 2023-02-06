@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_segment">
+    <sys_sg_item_stream_segment action="INSERT_OR_UPDATE">
+        <empty_state/>
+        <interleave_order_direction>asc</interleave_order_direction>
+        <max_offline_rows/>
+        <name>Item Stream Segment</name>
+        <order>10</order>
+        <screen display_value="My Teammates">28f59bda0938a11092508a26289c9859</screen>
+        <sys_class_name>sys_sg_item_stream_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:48</sys_created_on>
+        <sys_id>a8f59bdacc38a11077ca636f99f64c56</sys_id>
+        <sys_name>Item Stream Segment</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_item_stream_segment_a8f59bdacc38a11077ca636f99f64c56</sys_update_name>
+    </sys_sg_item_stream_segment>
+</record_update>

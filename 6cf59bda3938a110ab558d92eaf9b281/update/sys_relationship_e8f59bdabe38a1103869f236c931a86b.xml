@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>sys_user</basic_apply_to>
+        <basic_query_from>x_979268_eyepaxs_0_relationship_notes</basic_query_from>
+        <insert_callback/>
+        <name>Team contacts Notes-&gt;User Relationship</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+    //parent = sys user, current = notes
+	
+	var query = "contact.contact_name=" + parent.sys_id + "^contact.name=" + gs.getUserID();
+current.addEncodedQuery(query);
+})(current, parent);]]></query_with>
+        <reference_field>contact</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:48</sys_created_on>
+        <sys_id>e8f59bdabe38a1103869f236c931a86b</sys_id>
+        <sys_name>Team contacts Notes-&gt;User Relationship</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_relationship_e8f59bdabe38a1103869f236c931a86b</sys_update_name>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=e8f59bdabe38a1103869f236c931a86b"/>
+</record_update>

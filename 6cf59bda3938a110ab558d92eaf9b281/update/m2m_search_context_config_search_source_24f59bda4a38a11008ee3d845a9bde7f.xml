@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <search_context_config display_value="">c12d9ff40fcd2010e3a6120ba4767ee5</search_context_config>
+        <source display_value="People">a90c3bf387322300b081717936cb0bca</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:40</sys_created_on>
+        <sys_id>24f59bda4a38a11008ee3d845a9bde7f</sys_id>
+        <sys_name/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_24f59bda4a38a11008ee3d845a9bde7f</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

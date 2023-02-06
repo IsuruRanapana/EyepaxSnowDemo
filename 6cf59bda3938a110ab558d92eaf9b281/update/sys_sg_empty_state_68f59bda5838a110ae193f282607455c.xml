@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_empty_state">
+    <sys_sg_empty_state action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>Reminders Empty State</name>
+        <sys_class_name>sys_sg_empty_state</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:35</sys_created_on>
+        <sys_id>68f59bda5838a110ae193f282607455c</sys_id>
+        <sys_name>Reminders Empty State</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_empty_state_68f59bda5838a110ae193f282607455c</sys_update_name>
+        <view_config display_value="Empty State Reminders">e8f59bdad838a1109a19b349cd364e5c</view_config>
+    </sys_sg_empty_state>
+    <sys_translated_text action="delete_multiple" query="documentkey=68f59bda5838a110ae193f282607455c"/>
+</record_update>

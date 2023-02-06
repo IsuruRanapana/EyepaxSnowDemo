@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="List of notes Item Stream">6cf59bdae738a1108400c61a88e00458</item_stream>
+        <segment display_value="Item Stream Segment">acf59bda2d38a11036ae2d2059a2ef56</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:43</sys_created_on>
+        <sys_id>e8f59bda9d38a11016cca98b97aec356</sys_id>
+        <sys_name/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_e8f59bda9d38a11016cca98b97aec356</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

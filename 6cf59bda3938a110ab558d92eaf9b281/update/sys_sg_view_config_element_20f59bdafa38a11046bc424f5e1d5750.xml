@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_02_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:44</sys_created_on>
+        <sys_id>20f59bdafa38a11046bc424f5e1d5750</sys_id>
+        <sys_name>text_02_element</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_20f59bdafa38a11046bc424f5e1d5750</sys_update_name>
+        <view_config display_value="Favorites View Config">a4f59bda3138a110ae00617f83b2aa55</view_config>
+        <view_template_slot display_value="text_02">12fe67930f202010e70a4abec4767eb2</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

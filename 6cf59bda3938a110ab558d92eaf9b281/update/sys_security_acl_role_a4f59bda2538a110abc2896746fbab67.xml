@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:36</sys_created_on>
+        <sys_id>a4f59bda2538a110abc2896746fbab67</sys_id>
+        <sys_name/>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_security_acl display_value="2cf59bdae438a110afc0b5f7d875ce68">a8f59bda4738a1106aa1c7f50a436a68</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_a4f59bda2538a110abc2896746fbab67</sys_update_name>
+        <sys_user_role display_value="x_979268_eyepaxs_0.employee" name="x_979268_eyepaxs_0.employee">24f59bdad538a1105dd3e05833032f81</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

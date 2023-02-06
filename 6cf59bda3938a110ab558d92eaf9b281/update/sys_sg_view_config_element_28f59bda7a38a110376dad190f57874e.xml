@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:35</sys_created_on>
+        <sys_id>28f59bda7a38a110376dad190f57874e</sys_id>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_28f59bda7a38a110376dad190f57874e</sys_update_name>
+        <view_config display_value="List of Reminders for a contact View Config">20f59bda8f38a110402209bd0f9eeb56</view_config>
+        <view_template_slot display_value="49bb31d6-a9eb-fe76-10f1-dcbb044bc3ba">24f59bdaa038a110dea8fa9990ed334f</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

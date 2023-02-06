@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Reminders Related DI">a4f59bda0d38a11095aaeb98e2decc59</data_item>
+        <interleaved_field/>
+        <name>Reminders - relationship table Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:44</sys_created_on>
+        <sys_id>e0f59bda9f38a1108acd0ba69cea5859</sys_id>
+        <sys_name>Reminders - relationship table Item Stream</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_item_stream_e0f59bda9f38a1108acd0ba69cea5859</sys_update_name>
+        <table>x_979268_eyepaxs_0_relationship_contact_reminders</table>
+    </sys_sg_item_stream>
+</record_update>

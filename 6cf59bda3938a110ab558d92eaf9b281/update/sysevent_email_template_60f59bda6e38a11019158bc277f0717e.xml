@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_979268_eyepaxs_0_relationship_contact_reminders</collection>
+        <email_layout display_value="Team Contact Reminder Notification">6cf59bda6d38a110b42205022115037d</email_layout>
+        <message/>
+        <message_html/>
+        <message_list/>
+        <message_text/>
+        <name>Team Contact Reminder Notification</name>
+        <sms_alternate/>
+        <subject>${note_subject}</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:41</sys_created_on>
+        <sys_id>60f59bda6e38a11019158bc277f0717e</sys_id>
+        <sys_name>Team Contact Reminder Notification</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sysevent_email_template_60f59bda6e38a11019158bc277f0717e</sys_update_name>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

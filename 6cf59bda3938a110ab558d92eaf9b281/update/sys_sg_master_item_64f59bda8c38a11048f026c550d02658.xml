@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_979268_eyepaxs_0_relationship_contact</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Saved Employees">28f59bdae738a1104f4672e6984b6260</embedded_screen>
+        <item_view/>
+        <name>Favorites Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:45</sys_created_on>
+        <sys_id>64f59bda8c38a11048f026c550d02658</sys_id>
+        <sys_name>Favorites Main Item</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_master_item_64f59bda8c38a11048f026c550d02658</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Favorites View Config">a4f59bda3138a110ae00617f83b2aa55</view_config>
+    </sys_sg_master_item>
+</record_update>

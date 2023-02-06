@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>custom_MCB_view_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:46</sys_created_on>
+        <sys_id>ecf59bda7738a1107de10e4f0b16c550</sys_id>
+        <sys_name>custom_MCB_view_element</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_ecf59bda7738a1107de10e4f0b16c550</sys_update_name>
+        <view_config display_value="My Teammates View Config">e8f59bdae438a110003a7da4b9bcd855</view_config>
+        <view_template_slot display_value="">b48cb21841e71010f877183fc9b8beb0</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

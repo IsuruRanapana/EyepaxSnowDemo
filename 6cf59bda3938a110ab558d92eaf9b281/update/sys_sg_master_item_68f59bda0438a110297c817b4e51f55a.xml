@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>sys_user</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="All Employees">6cf59bda6838a11091544a32e30b695e</embedded_screen>
+        <item_view/>
+        <name>All Employees Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:44</sys_created_on>
+        <sys_id>68f59bda0438a110297c817b4e51f55a</sys_id>
+        <sys_name>All Employees Main Item</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_master_item_68f59bda0438a110297c817b4e51f55a</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="All Employees View Config">60f59bda1a38a1101b680f9b4535d156</view_config>
+    </sys_sg_master_item>
+</record_update>

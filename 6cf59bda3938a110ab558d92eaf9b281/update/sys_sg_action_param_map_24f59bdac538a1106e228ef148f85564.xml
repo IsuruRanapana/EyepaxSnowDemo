@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Add Note">2cf59bdae638a11012c1e0f276828965</button>
+        <item_parameter display_value="Reason">60f59bda3038a110d50ed34d9aef8964</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-06 10:13:39</sys_created_on>
+        <sys_id>24f59bdac538a1106e228ef148f85564</sys_id>
+        <sys_name>60f59bda3038a110d50ed34d9aef8964</sys_name>
+        <sys_package display_value="EyepaxSNowDemo" source="x_979268_eyepaxs_0">6cf59bda3938a110ab558d92eaf9b281</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="EyepaxSNowDemo">6cf59bda3938a110ab558d92eaf9b281</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_24f59bdac538a1106e228ef148f85564</sys_update_name>
+        <ui_parameter display_value="Reason for contact">e4f59bda5338a1105e5ebfb04c145d64</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
